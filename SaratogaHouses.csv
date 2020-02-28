@@ -1,4 +1,4 @@
-"","price","lotSize","age","landValue","livingArea","pctCollege","bedrooms","fireplaces","bathrooms","rooms","heating","fuel","sewer","waterfront","newConstruction","centralAir"
+"Unnamed","price","lotSize","age","landValue","livingArea","pctCollege","bedrooms","fireplaces","bathrooms","rooms","heating","fuel","sewer","waterfront","newConstruction","centralAir"
 "1",132500,0.09,42,50000,906,35,2,1,1,5,"electric","electric","septic","No","No","No"
 "2",181115,0.92,0,22300,1953,51,3,0,2.5,6,"hot water/steam","gas","septic","No","No","No"
 "3",109000,0.19,133,7300,1944,51,4,1,1,8,"hot water/steam","gas","public/commercial","No","No","No"
